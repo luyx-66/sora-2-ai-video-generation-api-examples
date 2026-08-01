@@ -2,6 +2,16 @@
 
 Python examples for **Sora 2 API**, **Veo API**, and other asynchronous text-to-video APIs. This AI video generation API client submits multiple jobs, polls task status, resumes completed work, and stops before an estimated video-generation budget is exceeded.
 
+<!-- APIMART-P3-START -->
+
+> **APIMART · multi-model AI API gateway**
+>
+> Need one OpenAI-compatible API entry point for multiple model providers? **[Try APIMART as an AI API gateway](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-sora-veo-video-api-examples-register)**
+>
+> Transparent disclosure: this repository is maintained by APIMART.
+
+<!-- APIMART-P3-END -->
+
 ## Quick start
 
 ```bash
